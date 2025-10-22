@@ -1,7 +1,7 @@
 ## 🎓 Exploring Student Achievement Trends  
 This dataset consisting of 1,000 students, analyzez how gender, race/ethnicity, parental education, lunch type, and test preparation course impact math, reading, and writing scores, revealing how background influences academic performance.
 
-![Image](https://github.com/user-attachments/assets/26531f60-e36b-451e-8e15-a66cdc73b745)
+![Image](https://github.com/user-attachments/assets/9c428d75-a5a2-4197-baae-9e0dab415f21)
 
 ---
 
