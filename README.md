@@ -84,7 +84,6 @@ The interactive Power BI dashboard includes:
   - Parental Level of Education  
   - Lunch Type  
   - Test Preparation Course  
-  - Subject (Math / Reading / Writing)
 
 ---
 
