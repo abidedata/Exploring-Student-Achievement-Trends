@@ -88,12 +88,6 @@ The interactive Power BI dashboard includes:
 
 ---
 
-## 📊 Dashboard Preview
-> 
-<img width="965" height="542" alt="Image" src="https://github.com/user-attachments/assets/53f8e9e2-7a3e-45d2-8337-9abc37400e8c" />
-
----
-
 ## 🧠 Statistical Summary (Excel)
 | Subject | Mean | Median | Std Dev | Highest Score | Lowest Score |
 |----------|-------|--------|----------|----------------|---------------|
